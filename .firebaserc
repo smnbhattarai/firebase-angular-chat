@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chatapp-81b33": {
+      "hosting": {
+        "pg": [
+          "chatapp-81b33"
+        ]
+      }
+    }
+  }
+}
